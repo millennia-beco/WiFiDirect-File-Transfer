@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wi-FiがDirect</string>
+    <!-- main.xml -->
+    <string name="action_add">追加</string>
+
+    <!-- context -->
+    <string name="context_del">削除</string>
+
+    <!-- activity_edit.xml -->
+    <string name="editactivity_title">編集</string>
+    <string name="hint_title">タイトル</string>
+    <string name="hint_content">内容</string>
+
+    <!-- edit.xml -->
+    <string name="action_delete">削除</string>
+
+    <!-- Toast用 -->
+    <string name="msg_del">削除しました。</string>
+    <string name="msg_destruction">メモを破棄しました。</string>
+
+
+</resources>
