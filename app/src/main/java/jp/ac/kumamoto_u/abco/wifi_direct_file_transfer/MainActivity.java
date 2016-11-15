@@ -31,17 +31,14 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import WiFiProcessing;
-
 public class MainActivity extends Activity {
     // ListView　用アダプタ
     SimpleAdapter mAdapter = null;
     // ListView に設定するデータ
     List<Map<String, String>> mList = null;
 
-    //ワイ用
-    WiFiProcessing wifiown;
-    wifiown = new WiFiProcessing();
+    //ワイ用 これなんで通るの
+    WifiActivity wifiown = new WifiActivity();
 
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.

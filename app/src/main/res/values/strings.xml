@@ -17,6 +17,7 @@
     <!-- Toast用 -->
     <string name="msg_del">削除しました。</string>
     <string name="msg_destruction">メモを破棄しました。</string>
-
+    <string name="P2Psuccess">接続に成功しました。</string>
+    <string name="P2Pfail">接続に失敗しました。</string>
 
 </resources>
